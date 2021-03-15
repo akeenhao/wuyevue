@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "社区申报",
+  "usingComponents": {
+    "wyb-popup": "/components/wyb-popup/wyb-popup",
+    "xfl-select": "/components/xfl-select/xfl-select",
+    "wyb-table": "/components/wyb-table/wyb-table"
+  }
+}

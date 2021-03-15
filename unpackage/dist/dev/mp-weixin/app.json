@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "platforms/mp-weixin/login/login",
+    "pages/new/new",
+    "pages/hot/hot",
+    "pages/tougao/tougao",
+    "pages/like/like",
+    "pages/center/center",
+    "pages/my/my",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "物业服务",
+    "navigationBarBackgroundColor": "#f44336",
+    "backgroundColor": "#ffffff"
+  },
+  "tabBar": {
+    "color": "#777777",
+    "selectedColor": "#f44336",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/new/new",
+        "iconPath": "static/index-0.png",
+        "selectedIconPath": "static/index-1.png",
+        "text": "家庭维修"
+      },
+      {
+        "pagePath": "pages/tougao/tougao",
+        "iconPath": "static/tag-0.png",
+        "selectedIconPath": "static/tag-1.png",
+        "text": "社区申报"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/center-0.png",
+        "selectedIconPath": "static/center-1.png",
+        "text": "个人信息"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap11.json"
+}

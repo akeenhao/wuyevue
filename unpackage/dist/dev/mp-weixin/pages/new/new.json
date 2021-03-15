@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "物业服务",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "wyb-popup": "/components/wyb-popup/wyb-popup",
+    "xfl-select": "/components/xfl-select/xfl-select",
+    "wyb-table": "/components/wyb-table/wyb-table"
+  }
+}

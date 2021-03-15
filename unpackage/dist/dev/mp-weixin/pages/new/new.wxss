@@ -1,0 +1,31 @@
+
+.wyb-table-box, .wyb-table-content, .wyb-table-scroll-view {
+	display: block;
+}
+.family-add-btn {
+	width: 60%;
+	height: 60rpx;
+	font-size: 34rpx;
+	margin: 45rpx;
+	line-height: 60rpx;
+}
+.popup-add-title {
+	width: 100%;
+	text-align: center;
+	display: block;
+	font-size: 40rpx;
+	margin: 20rpx 0;
+}
+.iconfont {
+	font-size: 36rpx !important;
+}
+.width100{
+	width: 100% !important;
+}
+.reply-btn {
+	width: 50%; 
+	height: 70rpx;
+	font-size: 32rpx;
+	margin: 15rpx;
+}
+
